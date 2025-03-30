@@ -1,0 +1,4 @@
+# 默认忽略的文件
+.idea/  # IntelliJ IDEA 项目文件夹
+.vscode/  # Visual Studio Code 项目文件夹
+*.iml  # IntelliJ IDEA 模块文件
